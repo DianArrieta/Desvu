@@ -1,0 +1,3 @@
+Conslusiones y hallazgos
+1. El ejercicio se desarrolló de manera satisfactoria, usando serenity y screenplay, herramientas que facilitan la construcción sets de pruebas así como la facilidad de lectura y entendimiento del código desarrollado
+2. No se encontraron defectos en los escenarios propuestos, al hacer una aplicación bastante sencilla pero suficiente para poner en práctica los conocimientos en pruebas de software

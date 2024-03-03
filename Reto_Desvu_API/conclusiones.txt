@@ -1,0 +1,3 @@
+Conslusiones y hallazgos
+1. El ejercicio se desarrolló de manera satisfactoria, usando karate framework, herramienta opensource poderosa,sencilla y de facil expresividad
+2. No se encontraron defectos en los escenarios propuestos
